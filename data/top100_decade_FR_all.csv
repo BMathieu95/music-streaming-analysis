@@ -1,0 +1,301 @@
+decade,rank,track_name,artist_name,streams,country
+1990s,1,Pour que tu m'aimes encore,Céline Dion,450982345,France
+1990s,2,Alors on danse,Stromae,424180696,France
+1990s,3,Joe le taxi,Vanessa Paradis,400495507,France
+1990s,4,Savoir aimer,Florent Pagny,380015455,France
+1990s,5,Je te promets,Johnny Hallyday,359969487,France
+1990s,6,Moi... Lolita,Alizée,338749707,France
+1990s,7,L'envie d'aimer,Daniel Lévi,322885616,France
+1990s,8,La tribu de Dana,Manau,303779445,France
+1990s,9,C'est la ouate,Caroline Loeb,286102914,France
+1990s,10,Sur la route,Raphaël & Jean-Louis Aubert,269917938,France
+1990s,11,Pour que tu m'aimes encore,Céline Dion,254798086,France
+1990s,12,Alors on danse,Stromae,242670424,France
+1990s,13,Joe le taxi,Vanessa Paradis,227934152,France
+1990s,14,Savoir aimer,Florent Pagny,213486409,France
+1990s,15,Je te promets,Johnny Hallyday,203315400,France
+1990s,16,Moi... Lolita,Alizée,193804771,France
+1990s,17,L'envie d'aimer,Daniel Lévi,180433439,France
+1990s,18,La tribu de Dana,Manau,170387085,France
+1990s,19,C'est la ouate,Caroline Loeb,162707043,France
+1990s,20,Sur la route,Raphaël & Jean-Louis Aubert,153768213,France
+1990s,21,Pour que tu m'aimes encore,Céline Dion,145832581,France
+1990s,22,Alors on danse,Stromae,138923903,France
+1990s,23,Joe le taxi,Vanessa Paradis,130754300,France
+1990s,24,Savoir aimer,Florent Pagny,123057379,France
+1990s,25,Je te promets,Johnny Hallyday,116876854,France
+1990s,26,Moi... Lolita,Alizée,108512377,France
+1990s,27,L'envie d'aimer,Daniel Lévi,102689659,France
+1990s,28,La tribu de Dana,Manau,96336092,France
+1990s,29,C'est la ouate,Caroline Loeb,91290133,France
+1990s,30,Sur la route,Raphaël & Jean-Louis Aubert,87898758,France
+1990s,31,Pour que tu m'aimes encore,Céline Dion,80405989,France
+1990s,32,Alors on danse,Stromae,77579469,France
+1990s,33,Joe le taxi,Vanessa Paradis,73280174,France
+1990s,34,Savoir aimer,Florent Pagny,69544864,France
+1990s,35,Je te promets,Johnny Hallyday,65378885,France
+1990s,36,Moi... Lolita,Alizée,61194805,France
+1990s,37,L'envie d'aimer,Daniel Lévi,58347913,France
+1990s,38,La tribu de Dana,Manau,57453713,France
+1990s,39,C'est la ouate,Caroline Loeb,54655795,France
+1990s,40,Sur la route,Raphaël & Jean-Louis Aubert,49560254,France
+1990s,41,Pour que tu m'aimes encore,Céline Dion,47445526,France
+1990s,42,Alors on danse,Stromae,42328437,France
+1990s,43,Joe le taxi,Vanessa Paradis,40903003,France
+1990s,44,Savoir aimer,Florent Pagny,39090795,France
+1990s,45,Je te promets,Johnny Hallyday,39174793,France
+1990s,46,Moi... Lolita,Alizée,34041646,France
+1990s,47,L'envie d'aimer,Daniel Lévi,33263625,France
+1990s,48,La tribu de Dana,Manau,33942087,France
+1990s,49,C'est la ouate,Caroline Loeb,29878428,France
+1990s,50,Sur la route,Raphaël & Jean-Louis Aubert,28707520,France
+1990s,51,Pour que tu m'aimes encore,Céline Dion,24698323,France
+1990s,52,Alors on danse,Stromae,26764149,France
+1990s,53,Joe le taxi,Vanessa Paradis,24265461,France
+1990s,54,Savoir aimer,Florent Pagny,22669242,France
+1990s,55,Je te promets,Johnny Hallyday,20423306,France
+1990s,56,Moi... Lolita,Alizée,19063569,France
+1990s,57,L'envie d'aimer,Daniel Lévi,18525713,France
+1990s,58,La tribu de Dana,Manau,18805373,France
+1990s,59,C'est la ouate,Caroline Loeb,18791715,France
+1990s,60,Sur la route,Raphaël & Jean-Louis Aubert,16036249,France
+1990s,61,Pour que tu m'aimes encore,Céline Dion,15951579,France
+1990s,62,Alors on danse,Stromae,14703917,France
+1990s,63,Joe le taxi,Vanessa Paradis,14113669,France
+1990s,64,Savoir aimer,Florent Pagny,13620693,France
+1990s,65,Je te promets,Johnny Hallyday,13757861,France
+1990s,66,Moi... Lolita,Alizée,9299586,France
+1990s,67,L'envie d'aimer,Daniel Lévi,12075927,France
+1990s,68,La tribu de Dana,Manau,8884181,France
+1990s,69,C'est la ouate,Caroline Loeb,8077842,France
+1990s,70,Sur la route,Raphaël & Jean-Louis Aubert,9440642,France
+1990s,71,Pour que tu m'aimes encore,Céline Dion,6557610,France
+1990s,72,Alors on danse,Stromae,10033834,France
+1990s,73,Joe le taxi,Vanessa Paradis,8297549,France
+1990s,74,Savoir aimer,Florent Pagny,8357014,France
+1990s,75,Je te promets,Johnny Hallyday,4422382,France
+1990s,76,Moi... Lolita,Alizée,6937600,France
+1990s,77,L'envie d'aimer,Daniel Lévi,6393767,France
+1990s,78,La tribu de Dana,Manau,4068598,France
+1990s,79,C'est la ouate,Caroline Loeb,3721593,France
+1990s,80,Sur la route,Raphaël & Jean-Louis Aubert,6133795,France
+1990s,81,Pour que tu m'aimes encore,Céline Dion,3966392,France
+1990s,82,Alors on danse,Stromae,5564420,France
+1990s,83,Joe le taxi,Vanessa Paradis,4623234,France
+1990s,84,Savoir aimer,Florent Pagny,3556748,France
+1990s,85,Je te promets,Johnny Hallyday,6011498,France
+1990s,86,Moi... Lolita,Alizée,5380464,France
+1990s,87,L'envie d'aimer,Daniel Lévi,2757136,France
+1990s,88,La tribu de Dana,Manau,997247,France
+1990s,89,C'est la ouate,Caroline Loeb,2122769,France
+1990s,90,Sur la route,Raphaël & Jean-Louis Aubert,2419416,France
+1990s,91,Pour que tu m'aimes encore,Céline Dion,3792215,France
+1990s,92,Alors on danse,Stromae,5092005,France
+1990s,93,Joe le taxi,Vanessa Paradis,1750950,France
+1990s,94,Savoir aimer,Florent Pagny,3648189,France
+1990s,95,Je te promets,Johnny Hallyday,2672885,France
+1990s,96,Moi... Lolita,Alizée,3044124,France
+1990s,97,L'envie d'aimer,Daniel Lévi,900000,France
+1990s,98,La tribu de Dana,Manau,1356888,France
+1990s,99,C'est la ouate,Caroline Loeb,900000,France
+1990s,100,Sur la route,Raphaël & Jean-Louis Aubert,900000,France
+2000s,1,Hips Don't Lie,Shakira feat. Wyclef Jean,450065640,France
+2000s,2,Dragostea Din Tei,O-Zone,426083122,France
+2000s,3,Un monde parfait,Ilona Mitrecey,399890792,France
+2000s,4,Femme Like U,K.Maro,377913356,France
+2000s,5,Alors on danse,Stromae,357982045,France
+2000s,6,La Camisa Negra,Juanes,339941996,France
+2000s,7,Because of You,Kelly Clarkson,322214326,France
+2000s,8,Aïcha,Khaled,303121583,France
+2000s,9,Tu es mon autre,Lara Fabian & Maurane,287970517,France
+2000s,10,Qui est l'exemple?,Rohff,269881540,France
+2000s,11,Hips Don't Lie,Shakira feat. Wyclef Jean,254666136,France
+2000s,12,Dragostea Din Tei,O-Zone,240796499,France
+2000s,13,Un monde parfait,Ilona Mitrecey,226596700,France
+2000s,14,Femme Like U,K.Maro,217333583,France
+2000s,15,Alors on danse,Stromae,203018533,France
+2000s,16,La Camisa Negra,Juanes,192876644,France
+2000s,17,Because of You,Kelly Clarkson,182413738,France
+2000s,18,Aïcha,Khaled,172117492,France
+2000s,19,Tu es mon autre,Lara Fabian & Maurane,160062726,France
+2000s,20,Qui est l'exemple?,Rohff,156050802,France
+2000s,21,Hips Don't Lie,Shakira feat. Wyclef Jean,147187284,France
+2000s,22,Dragostea Din Tei,O-Zone,135714923,France
+2000s,23,Un monde parfait,Ilona Mitrecey,128594470,France
+2000s,24,Femme Like U,K.Maro,122602313,France
+2000s,25,Alors on danse,Stromae,117774194,France
+2000s,26,La Camisa Negra,Juanes,111815737,France
+2000s,27,Because of You,Kelly Clarkson,102168426,France
+2000s,28,Aïcha,Khaled,98016571,France
+2000s,29,Tu es mon autre,Lara Fabian & Maurane,93856407,France
+2000s,30,Qui est l'exemple?,Rohff,86715728,France
+2000s,31,Hips Don't Lie,Shakira feat. Wyclef Jean,83600829,France
+2000s,32,Dragostea Din Tei,O-Zone,76216309,France
+2000s,33,Un monde parfait,Ilona Mitrecey,74129353,France
+2000s,34,Femme Like U,K.Maro,71405760,France
+2000s,35,Alors on danse,Stromae,68167342,France
+2000s,36,La Camisa Negra,Juanes,60030328,France
+2000s,37,Because of You,Kelly Clarkson,58357892,France
+2000s,38,Aïcha,Khaled,54009482,France
+2000s,39,Tu es mon autre,Lara Fabian & Maurane,52188178,France
+2000s,40,Qui est l'exemple?,Rohff,49789888,France
+2000s,41,Hips Don't Lie,Shakira feat. Wyclef Jean,44792395,France
+2000s,42,Dragostea Din Tei,O-Zone,43234649,France
+2000s,43,Un monde parfait,Ilona Mitrecey,43954497,France
+2000s,44,Femme Like U,K.Maro,39861683,France
+2000s,45,Alors on danse,Stromae,37130307,France
+2000s,46,La Camisa Negra,Juanes,36556999,France
+2000s,47,Because of You,Kelly Clarkson,34557764,France
+2000s,48,Aïcha,Khaled,29257184,France
+2000s,49,Tu es mon autre,Lara Fabian & Maurane,30824490,France
+2000s,50,Qui est l'exemple?,Rohff,29839264,France
+2000s,51,Hips Don't Lie,Shakira feat. Wyclef Jean,24924869,France
+2000s,52,Dragostea Din Tei,O-Zone,26537435,France
+2000s,53,Un monde parfait,Ilona Mitrecey,22682843,France
+2000s,54,Femme Like U,K.Maro,21476250,France
+2000s,55,Alors on danse,Stromae,22035794,France
+2000s,56,La Camisa Negra,Juanes,18099926,France
+2000s,57,Because of You,Kelly Clarkson,19764964,France
+2000s,58,Aïcha,Khaled,19838153,France
+2000s,59,Tu es mon autre,Lara Fabian & Maurane,17895987,France
+2000s,60,Qui est l'exemple?,Rohff,15685777,France
+2000s,61,Hips Don't Lie,Shakira feat. Wyclef Jean,14796082,France
+2000s,62,Dragostea Din Tei,O-Zone,15599715,France
+2000s,63,Un monde parfait,Ilona Mitrecey,13817361,France
+2000s,64,Femme Like U,K.Maro,10671769,France
+2000s,65,Alors on danse,Stromae,12459505,France
+2000s,66,La Camisa Negra,Juanes,12957830,France
+2000s,67,Because of You,Kelly Clarkson,9942844,France
+2000s,68,Aïcha,Khaled,12303732,France
+2000s,69,Tu es mon autre,Lara Fabian & Maurane,10860312,France
+2000s,70,Qui est l'exemple?,Rohff,9448677,France
+2000s,71,Hips Don't Lie,Shakira feat. Wyclef Jean,9837268,France
+2000s,72,Dragostea Din Tei,O-Zone,6002945,France
+2000s,73,Un monde parfait,Ilona Mitrecey,9458249,France
+2000s,74,Femme Like U,K.Maro,8847453,France
+2000s,75,Alors on danse,Stromae,8891094,France
+2000s,76,La Camisa Negra,Juanes,4608596,France
+2000s,77,Because of You,Kelly Clarkson,4018742,France
+2000s,78,Aïcha,Khaled,3965878,France
+2000s,79,Tu es mon autre,Lara Fabian & Maurane,4953134,France
+2000s,80,Qui est l'exemple?,Rohff,4777682,France
+2000s,81,Hips Don't Lie,Shakira feat. Wyclef Jean,5183651,France
+2000s,82,Dragostea Din Tei,O-Zone,2715786,France
+2000s,83,Un monde parfait,Ilona Mitrecey,2858315,France
+2000s,84,Femme Like U,K.Maro,5670217,France
+2000s,85,Alors on danse,Stromae,3725773,France
+2000s,86,La Camisa Negra,Juanes,5211805,France
+2000s,87,Because of You,Kelly Clarkson,1007280,France
+2000s,88,Aïcha,Khaled,3537253,France
+2000s,89,Tu es mon autre,Lara Fabian & Maurane,5258590,France
+2000s,90,Qui est l'exemple?,Rohff,3339365,France
+2000s,91,Hips Don't Lie,Shakira feat. Wyclef Jean,1297899,France
+2000s,92,Dragostea Din Tei,O-Zone,3704000,France
+2000s,93,Un monde parfait,Ilona Mitrecey,1866305,France
+2000s,94,Femme Like U,K.Maro,3177370,France
+2000s,95,Alors on danse,Stromae,900000,France
+2000s,96,La Camisa Negra,Juanes,2765117,France
+2000s,97,Because of You,Kelly Clarkson,900000,France
+2000s,98,Aïcha,Khaled,3086410,France
+2000s,99,Tu es mon autre,Lara Fabian & Maurane,1624634,France
+2000s,100,Qui est l'exemple?,Rohff,900000,France
+2010s,1,Formidable,Stromae,450213179,France
+2010s,2,Dernière danse,Indila,423083872,France
+2010s,3,Papaoutai,Stromae,402628074,France
+2010s,4,J'me tire,Maître Gims,382239312,France
+2010s,5,Sapés comme jamais,Maître Gims feat. Niska,360219129,France
+2010s,6,Christine,Christine and the Queens,339503045,France
+2010s,7,Djadja,Aya Nakamura,318494971,France
+2010s,8,Sur ma route,Black M,303854466,France
+2010s,9,Je te promets,Zaho,287004094,France
+2010s,10,Basique,Orelsan,268202836,France
+2010s,11,Formidable,Stromae,257043693,France
+2010s,12,Dernière danse,Indila,241618759,France
+2010s,13,Papaoutai,Stromae,227870629,France
+2010s,14,J'me tire,Maître Gims,217128956,France
+2010s,15,Sapés comme jamais,Maître Gims feat. Niska,203383025,France
+2010s,16,Christine,Christine and the Queens,192519925,France
+2010s,17,Djadja,Aya Nakamura,180429124,France
+2010s,18,Sur ma route,Black M,171116421,France
+2010s,19,Je te promets,Zaho,164276951,France
+2010s,20,Basique,Orelsan,152043594,France
+2010s,21,Formidable,Stromae,144747031,France
+2010s,22,Dernière danse,Indila,139621917,France
+2010s,23,Papaoutai,Stromae,128315022,France
+2010s,24,J'me tire,Maître Gims,124586424,France
+2010s,25,Sapés comme jamais,Maître Gims feat. Niska,117856625,France
+2010s,26,Christine,Christine and the Queens,107354064,France
+2010s,27,Djadja,Aya Nakamura,103198979,France
+2010s,28,Sur ma route,Black M,97705858,France
+2010s,29,Je te promets,Zaho,91389908,France
+2010s,30,Basique,Orelsan,84980575,France
+2010s,31,Formidable,Stromae,81153892,France
+2010s,32,Dernière danse,Indila,75888612,France
+2010s,33,Papaoutai,Stromae,72317110,France
+2010s,34,J'me tire,Maître Gims,71115393,France
+2010s,35,Sapés comme jamais,Maître Gims feat. Niska,67724625,France
+2010s,36,Christine,Christine and the Queens,59849613,France
+2010s,37,Djadja,Aya Nakamura,57725890,France
+2010s,38,Sur ma route,Black M,57889678,France
+2010s,39,Je te promets,Zaho,52632519,France
+2010s,40,Basique,Orelsan,50182617,France
+2010s,41,Formidable,Stromae,44353489,France
+2010s,42,Dernière danse,Indila,44174892,France
+2010s,43,Papaoutai,Stromae,44258218,France
+2010s,44,J'me tire,Maître Gims,38892592,France
+2010s,45,Sapés comme jamais,Maître Gims feat. Niska,35328438,France
+2010s,46,Christine,Christine and the Queens,35098913,France
+2010s,47,Djadja,Aya Nakamura,35663476,France
+2010s,48,Sur ma route,Black M,30723442,France
+2010s,49,Je te promets,Zaho,31275616,France
+2010s,50,Basique,Orelsan,29637279,France
+2010s,51,Formidable,Stromae,25136421,France
+2010s,52,Dernière danse,Indila,24849283,France
+2010s,53,Papaoutai,Stromae,24828167,France
+2010s,54,J'me tire,Maître Gims,21996500,France
+2010s,55,Sapés comme jamais,Maître Gims feat. Niska,19664522,France
+2010s,56,Christine,Christine and the Queens,22380437,France
+2010s,57,Djadja,Aya Nakamura,19694354,France
+2010s,58,Sur ma route,Black M,19726168,France
+2010s,59,Je te promets,Zaho,14540643,France
+2010s,60,Basique,Orelsan,14818666,France
+2010s,61,Formidable,Stromae,15115365,France
+2010s,62,Dernière danse,Indila,12111477,France
+2010s,63,Papaoutai,Stromae,15954318,France
+2010s,64,J'me tire,Maître Gims,11429560,France
+2010s,65,Sapés comme jamais,Maître Gims feat. Niska,11417610,France
+2010s,66,Christine,Christine and the Queens,9953671,France
+2010s,67,Djadja,Aya Nakamura,8784742,France
+2010s,68,Sur ma route,Black M,8828248,France
+2010s,69,Je te promets,Zaho,8609778,France
+2010s,70,Basique,Orelsan,9750569,France
+2010s,71,Formidable,Stromae,7485222,France
+2010s,72,Dernière danse,Indila,7418584,France
+2010s,73,Papaoutai,Stromae,5191018,France
+2010s,74,J'me tire,Maître Gims,6568528,France
+2010s,75,Sapés comme jamais,Maître Gims feat. Niska,7011166,France
+2010s,76,Christine,Christine and the Queens,4775520,France
+2010s,77,Djadja,Aya Nakamura,6597007,France
+2010s,78,Sur ma route,Black M,4739562,France
+2010s,79,Je te promets,Zaho,6116493,France
+2010s,80,Basique,Orelsan,2787131,France
+2010s,81,Formidable,Stromae,6810527,France
+2010s,82,Dernière danse,Indila,2185162,France
+2010s,83,Papaoutai,Stromae,2486108,France
+2010s,84,J'me tire,Maître Gims,5497807,France
+2010s,85,Sapés comme jamais,Maître Gims feat. Niska,1615311,France
+2010s,86,Christine,Christine and the Queens,4727108,France
+2010s,87,Djadja,Aya Nakamura,5825379,France
+2010s,88,Sur ma route,Black M,5137704,France
+2010s,89,Je te promets,Zaho,4149737,France
+2010s,90,Basique,Orelsan,5221036,France
+2010s,91,Formidable,Stromae,2416487,France
+2010s,92,Dernière danse,Indila,4479607,France
+2010s,93,Papaoutai,Stromae,1751164,France
+2010s,94,J'me tire,Maître Gims,4484268,France
+2010s,95,Sapés comme jamais,Maître Gims feat. Niska,900000,France
+2010s,96,Christine,Christine and the Queens,4285760,France
+2010s,97,Djadja,Aya Nakamura,3634487,France
+2010s,98,Sur ma route,Black M,3592781,France
+2010s,99,Je te promets,Zaho,900000,France
+2010s,100,Basique,Orelsan,2145699,France
